@@ -1,7 +1,8 @@
 {
-  "name": "clients",
+  "name": "Slot-Machine-Game",
   "version": "0.1.0",
-  "private": true,
+   "description": "React Lottery Game using @nextui-org/react",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
